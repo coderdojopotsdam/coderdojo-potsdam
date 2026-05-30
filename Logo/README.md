@@ -3,4 +3,4 @@ Das Logo ist lizensiert unter der Create Commons [Attribution-Share Alike 3.0 Un
 
 Es basiert auf diesem [Original](https://commons.wikimedia.org/wiki/File:CoderDojo_Original_Roundel_with_Long_Form_Logotype.svg).
 
-Der originale Author ist unbekannt.
+Der originale Author ist [CoderDojo Kata](https://github.com/CoderDojo/kata-archive/tree/master).
