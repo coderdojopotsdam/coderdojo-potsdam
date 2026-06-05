@@ -1,9 +1,9 @@
-# CoderDojo-Potsdam
-Hier kannst du alle Informationen und Materialien rund um den CoderDojo Potsdam finden.
+# CoderDojo-Potsdam-General <img src="Logo/CoderDojoPotsdamLogo.svg" alt="Logo CoderDojo Potsdam" width="33"/>
 
-Aktuell sind hier zu finden:
-Das Logo, Poster und die Teilnahmebedingungen.
+Dieses Repository enthält alle allgemeinen Informationen zum CoderDojo Potsdam als Organisation.
 
-![CoderDojo Potsdam Logo](Logo/CoderDojoPotsdamLogo.svg)
+Hier zu finden sind
 
-![CoderDojo Poster](Poster/preview/poster_de_teili_preview.png)
+- unser [**Logo**](/Logo)
+- einige [**Poster**](/Poster)
+- die [**Teilnahmebedingungen**](Teilnahmebedingungen.pdf)
