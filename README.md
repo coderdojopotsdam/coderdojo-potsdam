@@ -1,6 +1,6 @@
 # CoderDojo-Potsdam-General <img src="Logo/CoderDojoPotsdamLogo.svg" alt="Logo CoderDojo Potsdam" width="33"/>
 
-Dieses Repository enthält alle allgemeinen Informationen zum CoderDojo Potsdam als Organisation.
+Dieses Repository enthält alle allgemeinen Informationen und Materialien zum CoderDojo Potsdam als Organisation.
 
 Hier zu finden sind
 
